@@ -1,8 +1,10 @@
 # How-to-extract-business-information-with-contact-from-Google-Bussiness-Map
 How to extract business information with contact and business images from Google Bussiness Map
 
-Check software on below link
+Check software on below link for more detail about product.
  https://codecanyon.net/item/advance-google-business-extractor/26805966
+
+ 
 <h4>100% working software - Advance Google Business Extractor with Business Images</h4>
   <hr class="notop">
             <p>
